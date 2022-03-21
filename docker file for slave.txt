@@ -1,0 +1,3 @@
+sudo docker rm -f $ (sudo docker ps -a -q)
+sudo docker build /home/ubuntu/workspace/Test -t Testing 
+sudo docker run -it -p 82:80-d Testing
