@@ -1,0 +1,2 @@
+FROM ghostvivz/webapp
+ADD . /DevOps-trail/var/www/html/DevOps-trail
