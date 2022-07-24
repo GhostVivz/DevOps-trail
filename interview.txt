@@ -1,0 +1,8 @@
+ system 
+ class name ( 
+ public string
+ dstring input name
+ (input. 
+ string revesre string + empty
+for (i n char .lnegth 1t= i .. 
+re
